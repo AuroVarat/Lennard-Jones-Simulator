@@ -1,4 +1,7 @@
 # Lennard-Jones Simulator
+Lennard-Jones simulator is particle simulator developed by Auro for the  Computer Modelling course for Year 3 Physics.
+
+Lennard-Jones simulator is particle simulator that uses velocity-verlet alogrithm to simulate motion of particles in a pbc simluation cube. Different dynamic statistics, namely Mean Squared Displacement and Radial Distribution Function are also output to analyse the motion and state.
 
 ****All Parameters are in reduced units.**
 
