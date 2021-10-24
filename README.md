@@ -1,4 +1,4 @@
-# Lennard-Jones Simulation
+# Lennard-Jones Simulator
 
 ****All Parameters are in reduced units.**
 
